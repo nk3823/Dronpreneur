@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Dronpreneur</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="edc_ggnindia_dronacharya_info">edc@ggnindia.dronacharya.info</string>
+    <string name="todo">TODO</string>
+    <string name="edc_dronpreneur">EDC-Dronpreneur</string>
+    <string name="prosperity_of_a_nation_and_society_is_measured_by_the_entrepreneurial_spirit_of_its_people_entrepreneurship_is_a_key_element_of_industrialization_and_economic_progress_entrepreneurs_are_expected_to_play_vital_role_in_the_process_of_development_by_introducing_innovations_and_demonstrating_leadership_qualities_in_the_dynamic_situation_entrepreneurship_has_been_found_as_a_low_cost_and_long_term_strategy_for_ensuring_supply_of_right_kind_of_entrepreneurs_in_the_economy_to_sustain_the_development_tempo_educating_and_training_people_for_developing_entrepreneurial_capabilities_through_positive_training_interventions_is_the_core_strategy_of_the_entrepreneurship_development_cell_edc_founded_at_dronacharya_college_of_engineering_gurgaon">Prosperity of a nation and society is measured by the entrepreneurial spirit of its people. Entrepreneurship is a key element of industrialization and economic progress. Entrepreneurs are expected to play vital role in the process of development by introducing innovations and demonstrating leadership qualities in the dynamic situation. Entrepreneurship has been found as a low cost and long - term strategy for ensuring supply of right kind of entrepreneurs in the economy to sustain the development tempo. Educating and training people for developing entrepreneurial capabilities through positive training interventions is the core strategy of the Entrepreneurship Development Cell (EDC) founded at Dronacharya College of Engineering, Gurgaon.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="item">Item</string>
+    <string name="textview">TextView</string>
+    <string name="_2018">2018</string>
+    <string name="_2016_2017">2016-2017</string>
+    <string name="title_activity_gal2018">gal2018</string>
+    <string name="title_activity_gal2016">gal2016</string>
+
+
+
+</resources>

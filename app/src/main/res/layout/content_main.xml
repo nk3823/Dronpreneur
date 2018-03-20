@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="@android:color/background_light"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.nikhil.dronpreneur.Main"
+    tools:showIn="@layout/app_bar_main">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="234dp"
+        android:contentDescription="TODO"
+        android:foregroundGravity="top"
+        app:srcCompat="@drawable/maxre" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/background_light"
+        android:text="@string/prosperity_of_a_nation_and_society_is_measured_by_the_entrepreneurial_spirit_of_its_people_entrepreneurship_is_a_key_element_of_industrialization_and_economic_progress_entrepreneurs_are_expected_to_play_vital_role_in_the_process_of_development_by_introducing_innovations_and_demonstrating_leadership_qualities_in_the_dynamic_situation_entrepreneurship_has_been_found_as_a_low_cost_and_long_term_strategy_for_ensuring_supply_of_right_kind_of_entrepreneurs_in_the_economy_to_sustain_the_development_tempo_educating_and_training_people_for_developing_entrepreneurial_capabilities_through_positive_training_interventions_is_the_core_strategy_of_the_entrepreneurship_development_cell_edc_founded_at_dronacharya_college_of_engineering_gurgaon"
+        android:textColor="@android:color/background_dark"
+        android:textSize="14sp" />
+
+
+</LinearLayout>
